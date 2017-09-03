@@ -1,0 +1,33 @@
+{
+  "name": "dojos",
+  "version": "1.0.0",
+  "description": "Desafios",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidnei-simmon/dojos.git"
+  },
+  "author": "Sidnei Simmon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidnei-simmon/dojos/issues"
+  },
+  "homepage": "https://github.com/sidnei-simmon/dojos#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "eslint": "^4.6.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
