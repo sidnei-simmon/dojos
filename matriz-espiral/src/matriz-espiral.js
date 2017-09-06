@@ -7,7 +7,7 @@
 const matriz = []
 
 /**
- * Converte numero indo-arabe para romano
+ * Converte para matriz em espiral
  * @example
  *    createSpire(3,8) 
  *
